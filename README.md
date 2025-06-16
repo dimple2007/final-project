@@ -9,3 +9,4 @@ It includes the required files such as LICENSE, CODE_OF_CONDUCT, CONTRIBUTING, a
 - `CODE_OF_CONDUCT.md`: Contributor behavior guidelines
 - `CONTRIBUTING.md`: Steps to contribute to the project
 - `simple-interest.sh`: A shell script to calculate simple interest
+This is a typo fix for demonstration.
